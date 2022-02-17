@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm insert-waffle</h1>
+<h1 align="center">Hi 👋, I'm waffle</h1>
 <h3 align="center">A system administrator from Belgium</h3>
 
 - 🔭 I’m currently working on: **my bachelors thesis**
