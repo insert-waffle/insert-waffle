@@ -2,7 +2,7 @@
 <h3 align="center">A system administrator from Belgium</h3>
 
 - 🔭 I’m currently working on: **my bachelors thesis**
-- 💬 Ask me about: **powershell scripting and system administration**
+- 💬 Ask me about: **powershell scripting, html/css and system/network administration**
 - ⚡ Fun fact: **my homelab is more impressive than most enterprise networks.**
 
 <h3 align="left">Languages and Tools:</h3>
