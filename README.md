@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm waffle</h1>
-<h3 align="center">A system administrator from Belgium</h3>
+<h3 align="center">A network engineer from Belgium</h3>
 
-- 🔭 I’m currently working on: **my forever home :)**
+- 🔭 I’m currently working on: **nothing special**
 - 💬 Ask me about: **powershell scripting, html/css and system/network administration**
 - ⚡ Fun fact: **my homelab is more impressive than most enterprise networks.**
 
